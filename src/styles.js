@@ -17,7 +17,7 @@ const optionTextStyle = {
   flex: 1,
   textAlign: 'left',
   color: '#000',
-  fontSize: 22
+  fontSize: 14
 }
 
 export default StyleSheet.create({
